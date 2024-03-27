@@ -1,5 +1,6 @@
  # hahahaHowdy ~🤠👋                ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgounii%2Fseohaaa&count_bg=%23FFD9C0&title_bg=%23FF8989&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)           
 
+![monkey](https://github.com/gounii/seohaaa/assets/106510555/a58ba1fe-c6f6-408b-81b8-b83c627ca1a2)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923.svg?&style=for-the-badge&logo=DBeaver&logoColor=white)
